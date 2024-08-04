@@ -12,3 +12,12 @@ KB 바이트디그리 최종과제
 ***중요***
 참고할 수 있는 Repository를 하나더 공유합니다. 하기 프로젝트에는 위 구현에 필요한 모든내용이 있습니다. (구현방식은 다를 수 있음)
 https://github.com/dolphina02/SpringBasic 
+
+
+과제목적
+1. 빌드 에러를 보고 문제를 파악할 수 있는지 확인
+2. 기본적인 MVC pattern에서 Controller, Service, Repository, Entity, DB 간의 연결성을 이해하고 구현할 수 있는지 확인
+3. JPA의 기본적인 사용방법을 아는지 확인
+4. Encryption, Decryption을 이해하는지 확인
+5. Swagger를 간단히 구현하는 방법과 그 목적에 대해 이해하는지 확인
+6. Exception을 설정하는 기본적인 방법을 이해하는지 확인
